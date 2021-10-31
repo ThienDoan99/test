@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());
 
-// Đoạn này Quang Thiện làm
+// Đoạn này Quang Thiện làm tới cục cức lun
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
